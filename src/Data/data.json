@@ -1,0 +1,1201 @@
+{
+  "bombas": {
+    "imgFondo": "/images/Especialidades/Bombas/encabezados-bombas3.webp",
+    "title": "BOMBAS",
+    "subtitle": "Somos la empresa líder en soluciones para conducción de fluidos",
+    "descripcion": "Ofrecemos soluciones de bombeo sostenibles y eficientes, ajustadas a los requerimientos energéticos y de calidad de nuestros clientes. Nuestro equipo de ingenieros está especializado en proveer equipos precisos para una variedad de aplicaciones, desde la circulación de agua hasta el manejo de fluidos especiales en la industria alimentaria y sistemas contra incendios conforme a normas UL/FM.",
+    "tipoComponente": "1",
+    "products": [
+      {
+        "name": "Equipos para suministro general",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_suministro_general.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Equipos contra incendios ",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_contraincendios.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Equipos para el sector alimenticio",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_alimentos.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Equipos para minería",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_mineria.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Equipos de proceso ",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_procesos.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Almacenamiento de agua",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_almacenamiento.webp",
+        "alt": "alimentos"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "alfalaval",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/alfalaval.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "bjmpumps",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/bjmpumps.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "finish_thompson",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/finish_thompson.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "franklin_electric",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/franklin_electric.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "goulds",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/goulds.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "graco",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/graco.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "grundfos",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/grundfos.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "klassen",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/klassen.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "netzsch",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/netzsch.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "pentair",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/pentair.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "q_pumps",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/q_pumps.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "sulzer",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/sulzer.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "wilfrey",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/wilfrey.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "ge_industrial",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Bombas/marcas/ge_industrial.svg",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2FBrochure_bombas.pdf?alt=media&token=a0948320-53bf-4b6b-8430-0ca6d65ae26f",
+    "TitleBrochEspecialidad": "Brochure bombas"
+  },
+  "tableros-de-control": {
+    "imgFondo": "/images/Especialidades/TablerosDeControl/imagen_encabezado/tableros_imagen_encabezado.webp",
+    "title": "TABLEROS DE CONTROL",
+    "subtitle": "Especialidad que garantiza una oferta de válvulas de alta calidad adaptadas a sus necesidades específicas.",
+    "descripcion": "Nos dedicamos a brindar servicio integral, soluciones profesionales y sustentables al cliente en la selección de válvulas para aplicaciones específicas en los procesos de producción, servicios auxiliares y periféricos.",
+    "tipoComponente": "1",
+    "products": [
+      {
+        "name": "Válvulas bola",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_bola.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Válvulas guillotina",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_guillotina.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Válvulas mariposa",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_mariposa.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Válvulas globo",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_globo.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Válvulas macho",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_macho.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Válvulas compuerta",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_compuerta.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Válvulas pellizco",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_pellizco.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Válvulas diafragma",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_diafragma.webp",
+        "alt": "equipo suministro general"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "Dorot",
+        "alt": "Dorot",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/dorot.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Flowrox",
+        "alt": "Flowrox",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/flowrox.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Genebre",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/genebre.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "hayward",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/hayward.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "nibco",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/nibco.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "red_valve",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/red_valve.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "urrea",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/urrea.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "walworth",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/walworth.svg",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2FBrochure_valvulas.pdf?alt=media&token=d2d60c26-3fc5-467a-a92d-1ce76288dc45",
+    "TitleBrochEspecialidad": "Brochure válvulas"
+  },
+
+  "valvulas": {
+    "imgFondo": "/images/Especialidades/Valvulas/encabezado-valvulas.webp",
+    "title": "VÁLVULAS",
+    "subtitle": "Especialidad que garantiza una oferta de válvulas de alta calidad adaptadas a sus necesidades específicas.",
+    "descripcion": "Nos dedicamos a brindar servicio integral, soluciones profesionales y sustentables al cliente en la selección de válvulas para aplicaciones específicas en los procesos de producción, servicios auxiliares y periféricos.",
+    "tipoComponente": "1",
+    "products": [
+      {
+        "name": "Válvulas bola",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_bola.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Válvulas guillotina",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_guillotina.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Válvulas mariposa",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_mariposa.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Válvulas globo",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_globo.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Válvulas macho",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_macho.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Válvulas compuerta",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_compuerta.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Válvulas pellizco",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_pellizco.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Válvulas diafragma",
+        "imageUrl": "/images/Especialidades/Valvulas/Productos/valvula_diafragma.webp",
+        "alt": "equipo suministro general"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "Dorot",
+        "alt": "Dorot",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/dorot.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Flowrox",
+        "alt": "Flowrox",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/flowrox.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Genebre",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/genebre.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "hayward",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/hayward.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "nibco",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/nibco.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "red_valve",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/red_valve.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "urrea",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/urrea.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "walworth",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/walworth.svg",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2FBrochure_valvulas.pdf?alt=media&token=d2d60c26-3fc5-467a-a92d-1ce76288dc45",
+    "TitleBrochEspecialidad": "Brochure válvulas"
+  },
+
+  "deteccion-y-supresion-de-incendios": {
+    "imgFondo": "/images/Especialidades/Supresion/encabezado_sopresion.webp",
+    "title": "DETECCIÓN Y SUPRESIÓN DE INCENDIOS",
+    "subtitle": "Somos la empresa líder en soluciones para conducción de fluidos",
+    "descripcion": "Ofrecemos soluciones de bombeo sostenibles y eficientes, ajustadas a los requerimientos energéticos y de calidad de nuestros clientes. Nuestro equipo de ingenieros está especializado en proveer equipos precisos para una variedad de aplicaciones, desde la circulación de agua hasta el manejo de fluidos especiales en la industria alimentaria y sistemas contra incendios conforme a normas UL/FM.",
+    "tipoComponente": "1",
+    "products": [
+      {
+        "name": "Sistemas para cocinas industriales",
+        "imageUrl": "/images/Especialidades/Supresion/productos/cocinas_industriales.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Sistemas para equipos móviles ",
+        "imageUrl": "/images/Especialidades/Supresion/productos/sistemas_equipos_moviles.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Sistemas a base de gases",
+        "imageUrl": "/images/Especialidades/Supresion/productos/sistemas_gases.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Detección y alarma",
+        "imageUrl": "/images/Especialidades/Supresion/productos/deteccion_alarmas.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Sistemas y accesorios para espumas ",
+        "imageUrl": "/images/Especialidades/Supresion/productos/sistemas_espumas.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Extintores",
+        "imageUrl": "/images/Especialidades/Supresion/productos/extintores.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Válvulas ",
+        "imageUrl": "/images/Especialidades/Supresion/productos/valvulas.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Postes indicadores",
+        "imageUrl": "/images/Especialidades/Supresion/productos/postes_indicadores.webp",
+        "alt": "alimentos"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "Dorot",
+        "alt": "Dorot",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/dorot.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Flowrox",
+        "alt": "Flowrox",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/flowrox.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Genebre",
+        "alt": "Genebre",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/genebre.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "hayward",
+        "alt": "hayward",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/hayward.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "nibco",
+        "alt": "nibco",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/nibco.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "red_valve",
+        "alt": "red_valve",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/red_valve.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "urrea",
+        "alt": "urrea",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/urrea.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "walworth",
+        "alt": "walworth",
+        "imageUrl": "/images/Especialidades/Valvulas/marcas/walworth.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "buckeye",
+        "alt": "buckeye",
+        "imageUrl": "/images/Especialidades/Supresion/marcas/buckeye.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "cla_val",
+        "alt": "cla_val",
+        "imageUrl": "/images/Especialidades/Supresion/marcas/cla_val.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "potter",
+        "alt": "potter",
+        "imageUrl": "/images/Especialidades/Supresion/marcas/potter.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "solberg",
+        "alt": "solberg",
+        "imageUrl": "/images/Especialidades/Supresion/marcas/solberg.svg",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2Fbrochure_supresion_deteccion_incendios_2024_digital.pdf?alt=media&token=47643988-1ef6-48ce-a780-8d956d56a30d",
+    "TitleBrochEspecialidad": "Brochure supresión y detección de incendios"
+  },
+  "sistemas-contra-incendio": {
+    "imgFondo": "/images/Especialidades/Bombas/encabezados-bombas3.jpg",
+    "title": "SISTEMAS CONTRA INCENDIOS",
+    "subtitle": "Somos la empresa líder en soluciones para conducción de fluidos",
+    "descripcion": "Ofrecemos soluciones de bombeo sostenibles y eficientes, ajustadas a los requerimientos energéticos y de calidad de nuestros clientes. Nuestro equipo de ingenieros está especializado en proveer equipos precisos para una variedad de aplicaciones, desde la circulación de agua hasta el manejo de fluidos especiales en la industria alimentaria y sistemas contra incendios conforme a normas UL/FM.",
+    "tipoComponente": "1",
+    "products": [
+      {
+        "name": "Equipos para suministro general",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_suministro_general.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Equipos contra incendios ",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_contraincendios.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Equipos para el sector alimenticio",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_alimentos.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Equipos para mineria",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_mineria.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Equipos de proceso ",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_procesos.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Almacenamiento de agua",
+        "imageUrl": "/images/Especialidades/Bombas/Productos/equipo_almacenamiento.webp",
+        "alt": "alimentos"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "Bomba Centrífuga",
+        "alt": "nombreDeAlt",
+        "imageUrl": "https:/images/bomba_centrifuga.jpg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Bomba de Diafragma",
+        "alt": "nombreDeAlt",
+        "imageUrl": "https:/images/bomba_diafragma.jpg",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2FBrochure_bombas.pdf?alt=media&token=a0948320-53bf-4b6b-8430-0ca6d65ae26f",
+    "TitleBrochEspecialidad": "Brochure bombas"
+  },
+  "sellado-industrial-y-juntas-de-expansion": {
+    "imgFondo": "/images/Especialidades/Sellado/encabezado_sellados.webp",
+    "title": "SELLADO INDUSTRIAL Y JUNTAS DE EXPANSIÓN",
+    "subtitle": "Somos la empresa líder en soluciones para conducción de fluidos",
+    "tipoComponente": "1",
+    "descripcion": "Ofrecemos productos de sellado de última tecnología de alta calidad que incluyen soluciones específicas como juntas para bridas, empaquetaduras y juntas de expansión, contribuyendo a la eficiencia energética y la reducción de emisiones.",
+    "products": [
+      {
+        "name": "Empaquetaduras",
+        "imageUrl": "/images/Especialidades/Sellado/productos/empaquetaduras.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Productos en PTFE",
+        "imageUrl": "/images/Especialidades/Sellado/productos/productos_ptfe.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Juntas metálicas",
+        "imageUrl": "/images/Especialidades/Sellado/productos/juntas_metalicas.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Juntas dieléctricas",
+        "imageUrl": "/images/Especialidades/Sellado/productos/juntas_dielectricas.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Láminas comprimidas",
+        "imageUrl": "/images/Especialidades/Sellado/productos/laminas_comprimidas.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Juntas de expansión",
+        "imageUrl": "/images/Especialidades/Sellado/productos/juntas_expansion.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Protección térmica",
+        "imageUrl": "/images/Especialidades/Sellado/productos/proteccion_termica.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Empaquetadura inyectable",
+        "imageUrl": "/images/Especialidades/Sellado/productos/empaquetadura_inyectable.webp",
+        "alt": "equipo suministro general"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "jampack",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Sellado/marcas/jampack.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "sealpack",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Sellado/marcas/sealpack.svg",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2FBrochure_sellado_industrial.pdf?alt=media&token=4b02f388-b8be-4944-9932-8d3e2c875e9a",
+    "TitleBrochEspecialidad": "Brochure sellado y juntas"
+  },
+  "pozos-profundos": {
+    "imgFondo": "/images/Especialidades/Pozos/encabezado-pozos.webp",
+    "title": "POZOS PROFUNDOS",
+    "subtitle": "Nuestra especialidad garantiza un servicio completo con asesoría experta para lograr pozos de alto rendimiento y durabilidad.",
+    "descripcion": "La especialidad de Pozos Profundos, fue creada para proveer tubería de acero negro al carbón, acero HSLA, acero al cobre, acero inoxidable, duplex y PVC, además cuenta con equipo de bombeo para el equipamiento de pozo profundo, así como instrumentación y control para la tecnificación y ahorro de energía.",
+    "tipoComponente": "2",
+    "products": [
+      {
+        "name": "Tubería lisa",
+        "imageUrl": "/images/Especialidades/Pozos/productos/tuberia-lisa.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Ademe de ranura longitunidal ",
+        "imageUrl": "/images/Especialidades/Pozos/productos/ademe-ranura.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Ademe de PVC",
+        "imageUrl": "/images/Especialidades/Pozos/productos/ademe-pvc.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Tubería roscada de acero al carbón",
+        "imageUrl": "/images/Especialidades/Pozos/productos/tuberia-roscada.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Flechas y cubiertas ",
+        "imageUrl": "/images/Especialidades/Pozos/productos/flechas-y-cubiertas.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Accesorios",
+        "imageUrl": "/images/Especialidades/Pozos/productos/accesorios.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Oroflex well ",
+        "imageUrl": "/images/Especialidades/Pozos/productos/oroflexwell.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Recubrimientos",
+        "imageUrl": "/images/Especialidades/Pozos/productos/recubrimiento.webp",
+        "alt": "alimentos"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "baroid",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Pozos/marcas/baroid.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "fann",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Pozos/marcas/fann.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "pexgol",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Pozos/marcas/pexgol.svg",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2Fbrochure_pozos.pdf?alt=media&token=45a64b2e-0a6d-40e0-ad90-7d7708a68d19",
+    "TitleBrochEspecialidad": "Brochure pozos profundos"
+  },
+
+  "pexgol": {
+    "imgFondo": "/images/Especialidades/Pexgol/imagen_encabezado/pexgol_imagen_encabezado.webp",
+    "title": "PEXGOL",
+    "subtitle": "Especialidad que brinda soluciones de tuberías para minería y procesamiento de materiales",
+    "descripcion": "Presentamos un sistema revolucionario de tuberías de polietileno reticulado en México, que supera a los sistemas convencionales en resistencia química y mecánica, ideal para el transporte de fluidos exigentes. Su producción en rollos largos agiliza significativamente la instalación.",
+    "tipoComponente": "2",
+    "products": [
+      {
+        "name": "Tubería inoxidable grado alimenticio y farmacéutico",
+        "imageUrl": "/images/Especialidades/Pexgol/soluciones pexgol/tuberia_mineria_avanzada.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Pulpas y relaves ",
+        "imageUrl": "/images/Especialidades/Pexgol/soluciones pexgol/pulpas y relaves.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Líneas de servicio para minas",
+        "imageUrl": "/images/Especialidades/Pexgol/soluciones pexgol/lineas_servicio.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Desagüe de minas",
+        "imageUrl": "/images/Especialidades/Pexgol/soluciones pexgol/desague_minas.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Plantas de procesamiento",
+        "imageUrl": "/images/Especialidades/Pexgol/soluciones pexgol/plantas_procesamiento.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Aire comprimido ",
+        "imageUrl": "/images/Especialidades/Pexgol/soluciones pexgol/aire_comprimido.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Procesamiento de salmueras",
+        "imageUrl": "/images/Especialidades/Pexgol/soluciones pexgol/salmueras.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Accesorios y conexiones",
+        "imageUrl": "/images/Especialidades/Pexgol/soluciones pexgol/accesorios_conexiones.webp",
+        "alt": "alimentos"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "Pexgol",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Pexgol/marcas/pexgol.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "QuickPipes",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/Pexgol/marcas/quickpipes.svg",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2FBrochure_pexgol_2024.pdf?alt=media&token=c6d48d13-3484-48e8-9302-d704c4b20577",
+    "TitleBrochEspecialidad": "Brochure pexgol"
+  },
+  "contraincendios-y-hvac": {
+    "imgFondo": "/images/Especialidades/ContraIncendiosYHvac/contraincendios_hvac_encabezado.webp",
+    "title": "CONTRAINCENDIOS Y HVAC",
+    "subtitle": "Especialidad que proporciona soluciones a medida que aseguran la protección contra incendios y la creación de ambientes ideales para vivir y trabajar.",
+    "descripcion": "Esta especialidad garantiza seguridad y confort, integrando sistemas contra incendios a la medida con soluciones HVAC avanzadas. Esta sinergia asegura una protección óptima contra incendios, al tiempo que mantiene un ambiente controlado y confortable, lo cual es esencial para la seguridad y bienestar en cualquier instalación.",
+    "tipoComponente": "1",
+    "solucionesComp": "1",
+    "products": [
+      {
+        "name": "Restrictores mecánicos",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/productos/restrictores_mecanicos.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Equipos de bombeo ",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/productos/equipos_bombeo.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Sistema interior automático",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/productos/sistema_interior.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Válvulas",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/productos/valvulas.webp",
+        "alt": "equipo suministro general"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "Aquestria",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/marcas/aquestria.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Borusan",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/marcas/borusan.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Eaton",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/marcas/eaton.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Nibco",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/marcas/nibco.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Optm",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/marcas/optm.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "cla_val",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/marcas/cla_val.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "reliable",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/marcas/reliable.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "Victaulic",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/marcas/victaulic.svg",
+        "redireccion": "url"
+      }
+    ],
+    "solucionesTitle": "Soluciones HVAC",
+    "soluciones": [
+      {
+        "name": "hvac 1",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/soluciones_hvac/hvac_1.webp",
+        "redireccion": "url"
+      },
+      {
+        "name": "hvac 2",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/soluciones_hvac/hvac_2.webp",
+        "redireccion": "url"
+      },
+      {
+        "name": "hvac 3",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/soluciones_hvac/hvac_3.webp",
+        "redireccion": "url"
+      },
+      {
+        "name": "hvac 4",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/ContraIncendiosYHvac/soluciones_hvac/hvac_4.webp",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2Fbrochure_supresion_deteccion_incendios.pdf?alt=media&token=0023300b-db36-4154-a55f-f65ebe3de4c4",
+    "TitleBrochEspecialidad": "Brochure Contraincendios y HVAC"
+  },
+
+  "almacenamiento-de-agua": {
+    "imgFondo": "/images/Especialidades/AlmacenamientoDeAgua/almacenamiento_encabezado.webp",
+    "title": "ALMACENAMIENTO DE AGUA",
+    "subtitle": "Nuestra especialidad está dirigida a dar soluciones en proyectos de almacenamiento de agua a través de tanques atornillables para uso agrícola, residencial, minería, y contrucción",
+    "descripcion": "Diseñamos y ensamblamos tanques con equipos certificados y especializados, garantizando el cumplimiento de normativas AWWA, FM, NFPA y NSF-61 adaptadas a cada requerimiento.",
+    "tipoComponente": "2",
+    "products": [
+      {
+        "name": "Tanques atornillables",
+        "imageUrl": "/images/Especialidades/AlmacenamientoDeAgua/productos/tanques_atornillables.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Tanques contra incendio NFPA 22 ",
+        "imageUrl": "/images/Especialidades/AlmacenamientoDeAgua/productos/tanques_contraincendios.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Plataformas y escaleras",
+        "imageUrl": "/images/Especialidades/AlmacenamientoDeAgua/productos/plataformas_escaleras.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Accesorios",
+        "imageUrl": "/images/Especialidades/AlmacenamientoDeAgua/productos/accesorios copia.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Cimentación ",
+        "imageUrl": "/images/Especialidades/AlmacenamientoDeAgua/productos/cimentacion.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Mantenimiento",
+        "imageUrl": "/images/Especialidades/AlmacenamientoDeAgua/productos/mantenimiento.webp",
+        "alt": "alimentos"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "baroid",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/AlmacenamientoDeAgua/marcas/rizzotto.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "kingspan",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/AlmacenamientoDeAgua/marcas/kingspan.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "rizzotto",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/AlmacenamientoDeAgua/marcas/rizzotto.svg",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2Fbrochure_almacenamiento.pdf?alt=media&token=1cb87798-927e-441e-83d8-e51a7cf77f2c",
+    "TitleBrochEspecialidad": "Brochure almacenamiento de agua"
+  },
+  "vapor-y-alimentos": {
+    "imgFondo": "/images/Especialidades/VaporYAlimentos/imagen_encabezado/encabezado_alimentos_vapor.webp",
+    "title": "VAPOR Y ALIMENTOS",
+    "subtitle": "Nuestra especialidad integra el manejo experto del vapor con la meticulosidad requerida por la industria alimentaria, química y farmacéutica.",
+    "descripcion": "Nos destacamos por nuestro conocimiento avanzado en la generación, conducción y control eficiente de la energía del vapor, así como la recuperación y el aprovechamiento de los condensados resultantes. Paralelamente, nuestra especialización en acero inoxidable y la adhesión a las normas de inocuidad nos permite cumplir con los altos estándares de calidad y seguridad alimentaria y farmacéutica. Proveemos soluciones integrales que garantizan la excelencia en el tratamiento del vapor y la optimización de procesos en sectores críticos que demandan la máxima pureza y control.",
+    "tipoComponente": "2",
+    "products": [
+      {
+        "name": "Tubería inoxidable grado alimenticio y famacéutico",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/tuberia_inoxidable.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Tuberías sanitarias de acero inoxidable ",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/tuberia_sanitarias.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Conexiones sanitarias",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/conexiones_sanitarias.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Intercambiadores de calor",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/intercambiadores_calor.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Trampas para vapor ",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/trampas.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Recubrimientos térmicos",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/recubrimientos_termicos.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Intercambiador de placas ",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/intercambiador_placas.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Purgadores de condensado",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/purgadores_condensado.webp",
+        "alt": "alimentos"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "alfa_laval",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/alfa_laval.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "autmix",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/autmix.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "armaturen",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/armaturen.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "emerson",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/emerson.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "genebre",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/genebre.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "grupo_meysot",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/grupo_meysot.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "inventive_power",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/inventive_power.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "keofitt",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/keofitt.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "miura",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/miura.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "rath_gibson",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/rath_gibson.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "raypak",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/raypak.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "rheem",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/rheem.svg",
+        "redireccion": "url"
+      },
+
+      {
+        "name": "teadit",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/teadit.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "victaulic",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/victaulic.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "vne",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/vne.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "walworth",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/walworth.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "watson_mcdaniel",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/watson_mcdaniel.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "miura",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/miura.svg",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2Fbrochure_alimentos.pdf?alt=media&token=c1e0ea52-56e2-4e7a-a499-106912f2ea8f",
+    "TitleBrochEspecialidad": "Brochure alimentos y vapor"
+  },
+  "atraviesa": {
+    "imgFondo": "/images/Especialidades/VaporYAlimentos/imagen_encabezado/encabezado_alimentos_vapor.webp",
+    "title": "ATRAVIESA",
+    "subtitle": "Una nueva tubería para exploración hecha en México. Soluciones de alta calidad para barras diamantina, considerando tubería templada y revenida a lo largo de la totalidad de la pieza.",
+    "descripcion": "Nos destacamos por nuestro conocimiento avanzado en la generación, conducción y control eficiente de la energía del vapor, así como la recuperación y el aprovechamiento de los condensados resultantes. Paralelamente, nuestra especialización en acero inoxidable y la adhesión a las normas de inocuidad nos permite cumplir con los altos estándares de calidad y seguridad alimentaria y farmacéutica. Proveemos soluciones integrales que garantizan la excelencia en el tratamiento del vapor y la optimización de procesos en sectores críticos que demandan la máxima pureza y control.",
+    "tipoComponente": "2",
+    "products": [
+      {
+        "name": "Inspección",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/tuberia_inoxidable.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Aplicación de grasa en conexión ",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/tuberia_sanitarias.webp",
+        "alt": "alimentos"
+      },
+      {
+        "name": "Corrida",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/conexiones_sanitarias.webp",
+        "alt": "equipo suministro general"
+      },
+      {
+        "name": "Recuperación de tubos",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/productos/intercambiadores_calor.webp",
+        "alt": "alimentos"
+      }
+    ],
+    "title2": "un titulo",
+    "imagenesCarruselEsp": [
+      {
+        "name": "alfa_laval",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/alfa_laval.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "armaturen",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/armaturen.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "emerson",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/emerson.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "genebre",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/genebre.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "grupo_meysot",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/grupo_meysot.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "inventive_power",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/inventive_power.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "keofitt",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/keofitt.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "miura",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/miura.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "rath_gibson",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/rath_gibson.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "raypak",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/raypak.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "rheem",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/rheem.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "spirax_sacro",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/spirax_sacro.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "teadit",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/teadit.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "victaulic",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/victaulic.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "vne",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/vne.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "walworth",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/walworth.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "watson_mcdaniel",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/watson_mcdaniel.svg",
+        "redireccion": "url"
+      },
+      {
+        "name": "miura",
+        "alt": "nombreDeAlt",
+        "imageUrl": "/images/Especialidades/VaporYAlimentos/marcas/miura.svg",
+        "redireccion": "url"
+      }
+    ],
+    "linkDescargaBroch": "https://firebasestorage.googleapis.com/v0/b/tvn-api-store.appspot.com/o/documentos%2Fbrochures%2Ftuvanosa%20com%2Fbrochure_almacenamiento_2024_digital.pdf?alt=media&token=e56d3660-df8b-4372-bdec-99481e67e3a6",
+    "TitleBrochEspecialidad": "Brochure alimentos y vapor"
+  }
+}

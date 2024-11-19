@@ -1,0 +1,44 @@
+.aviso{
+    padding: 20px;
+    background-color: white;
+    margin: auto;
+}
+.aviso p{
+    font-size: 18px;
+    width: 70%;
+    margin: auto;
+}
+.aviso h3{
+    font-size: 24px;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 40px;
+    color:#00699b
+}
+.aviso h1{
+    text-align: "center"; 
+    margin-top: 155px; 
+    color: #00699b;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: 31.5px;
+}
+#ultimo{
+    padding-bottom: 30px;
+}
+@media screen and (max-width:900px) {
+    .aviso h3{
+        width: 90%;
+        margin-left: 5%;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+    .aviso h1{
+        margin-top: 150px;
+    }
+    .aviso p{
+        width: 90%;
+    }
+}

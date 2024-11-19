@@ -1,0 +1,169 @@
+.fundacion {
+  background-image: url("/images/fundacion_tvn.webp");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 100%;
+  height: 80vh;
+}
+
+.logoFundacion {
+  width: 400px;
+  z-index: 2;
+}
+
+.logoFundacionVertical {
+  width: 150px;
+  justify-content: center;
+  display: flex;
+  align-self: center;
+  display: none; /* Ocultar por defecto */
+}
+
+.descFundacion {
+  width: 55%;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  z-index: 2;
+  margin: 0;
+}
+
+.filtroFundacion {
+  position: absolute;
+  top: 0;
+  height: 90%;
+  width: 100%;
+  background: linear-gradient(to bottom, #214379, rgba(7, 65, 123, 0));
+}
+
+.saberMas {
+  background-color: #002c72;
+  color: #fff;
+  font-weight: 100;
+  border-radius: 25px;
+  border: none;
+  font-size: 18px;
+  width: 200px;
+  height: 40px;
+  margin-bottom: 5%;
+  transition: 0.3s;
+  cursor: pointer;
+  z-index: 2;
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.saberMas:hover {
+  background-color: #021e4a;
+  transition: 0.3s;
+  font-size: 16px;
+}
+
+.imageContainer {
+  float: left;
+  margin-right: 20px;
+}
+
+.imagenIzquierda {
+  width: 100px;
+  height: 100px;
+}
+
+.chirimoleCert {
+  max-width: 100%;
+  height: auto;
+}
+
+.dialogTitleContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dialogContent {
+  text-align: justify;
+}
+
+.certificadoContainer {
+  text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+  .descFundacion {
+    width: 80%;
+    font-size: 20px;
+  }
+
+  .fundacion {
+    justify-content: space-evenly;
+  }
+
+  .dialogContent p {
+    text-align: center;
+  }
+  .saberMas {
+    width: 150px;
+    font-size: 16px;
+  }
+
+  .imagen-izquierda {
+    width: 200px;
+    height: 100px;
+  }
+
+  .image-container {
+    float: none;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .alamo,
+  .chirimole,
+  .mangle,
+  .tinajas {
+    padding-bottom: 40px;
+  }
+
+  .centrar {
+    text-align: center;
+  }
+
+  .logoFundacionVertical {
+    display: flex; /* Mostrar en pantallas pequeñas */
+    z-index: 2;
+  }
+  .logoFundacion {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .descFundacion {
+    width: 80%;
+  }
+  .logoFundacionVertical {
+    display: flex; /* Mostrar en pantallas pequeñas */
+    z-index: 2;
+  }
+
+  .dialogContent p {
+    text-align: center;
+  }
+
+  .logoFundacion {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .certificado-container {
+    margin-top: 40px;
+  }
+}

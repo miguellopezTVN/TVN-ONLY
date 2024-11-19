@@ -1,0 +1,78 @@
+.slideText,
+.shadow-effect,
+.slideText,
+.swiper,
+.swiper-slide-shadow-left,
+.swiper-slide-shadow-right {
+  border-radius: 25px; /* Ajusta el valor según tus necesidades */
+}
+
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 400px;
+  border-radius: 25px;
+}
+.swiper-slide Image {
+  display: block;
+  width: 100%;
+}
+.slideContent {
+  position: relative;
+  text-align: center;
+}
+.slideText {
+  position: absolute;
+  bottom: 20px;
+  width: fit-content;
+  left: 32px;
+  font-weight: 300;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 8px;
+}
+
+.shadow-effect {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  transition: box-shadow 0.3s ease-in-out;
+  width: 600px;
+  height: 45%;
+}
+.swiper-slide:hover .shadow-effect {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+}
+@media (max-width: 900px) {
+  .swipper {
+    width: 900px !important;
+  }
+}
+
+.custom-tooltip {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: rgba(0, 0, 0, 0.87);
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.3);
+  font-size: 76px;
+}
+
+.custom-tooltip-arrow {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  padding: "14px";
+  color: #07417b; /* Ajusta el color según tu preferencia */
+}
+
+.swiper-button-next {
+  right: -2px; /* Ajusta esta medida para separarla más de la imagen */
+}
+
+.swiper-button-prev {
+  left: -2px; /* Ajusta esta medida para separarla más de la imagen */
+}
